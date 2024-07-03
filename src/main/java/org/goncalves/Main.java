@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main() {
         // Caminho para a biblioteca nativa do OpenCV
         String libPath = "C:\\Users\\Ryzen 7\\Downloads\\opencv\\build\\java\\x64";
         System.setProperty("java.library.path", libPath);
@@ -92,7 +92,7 @@ public class Main {
 
                             // Identifica se é um humano ou outro objeto
                             String labelCS = classNames.get((int) classIdPoint.x);
-                            String objectType = labelCS.equals("person") ? "Humano" : "Objeto";
+                            String objectType = labelCS.equals("person") ? "Human" : "Object";
                             Imgproc.putText(frame, objectType, new Point(left, top - 5), Imgproc.FONT_HERSHEY_SIMPLEX, 1, new Scalar(0, 255, 0), 2);
                         }
                     }
