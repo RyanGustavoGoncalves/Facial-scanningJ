@@ -37,10 +37,6 @@ Este projeto é uma aplicação de **visão computacional** que utiliza **Deep L
 
 Sinta-se à vontade para abrir issues ou pull requests. Qualquer feedback é bem-vindo! 🗣️
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
 ---
 
 **Vamos nos conectar!** Se você se interessa por visão computacional e inteligência artificial, vamos trocar ideias. 🤗
