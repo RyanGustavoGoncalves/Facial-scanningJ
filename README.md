@@ -33,10 +33,6 @@ Este projeto é uma aplicação de **visão computacional** que utiliza **Deep L
 
 4. **Execute a classe `Main`** para iniciar a aplicação.
 
-## 📸 Capturas de Tela
-
-*Adicione aqui algumas imagens da aplicação em funcionamento para visualizar os resultados.* 🖼️
-
 ## 🤝 Contribuição
 
 Sinta-se à vontade para abrir issues ou pull requests. Qualquer feedback é bem-vindo! 🗣️
